@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">zonq</string>
+    <string name="tab_stations">All Stations</string>
+    <string name="tab_favorites">Favorites</string>
+    <string name="tab_categories">Categories</string>
+    <string name="tab_countries">Countries</string>
+    <string name="tab_genres">Genres</string>
+    <string name="tab_languages">Languages</string>
+    <string name="search_hint">Search radio by name…</string>
+    <string name="settings_title">Settings</string>
+    <string name="pref_audio_quality">Audio Quality</string>
+    <string name="pref_audio_quality_auto">Automatic (adapts to connection)</string>
+    <string name="pref_audio_quality_high">High Quality (192+ kbps)</string>
+    <string name="pref_audio_quality_standard">Standard Quality (128 kbps)</string>
+    <string name="pref_audio_quality_saver">Data Saver (64 kbps)</string>
+    <string name="pref_auto_play">Auto-play on startup</string>
+    <string name="pref_auto_play_desc">Resume last played station when opening the app</string>
+    <string name="pref_default_screen">Startup Screen</string>
+    <string name="pref_default_screen_favs">Favorites</string>
+    <string name="pref_default_screen_all">All Stations</string>
+    <string name="pref_theme">Appearance</string>
+    <string name="pref_theme_system">System Default</string>
+    <string name="pref_theme_dark">Dark Mode</string>
+    <string name="pref_theme_light">Light Mode</string>
+
+    <!-- Buffer Time Settings -->
+    <string name="pref_buffer_time">Buffer Duration</string>
+    <string name="pref_buffer_short">Quick Start (3s buffer)</string>
+    <string name="pref_buffer_normal">Default (5s buffer)</string>
+    <string name="pref_buffer_large">Stable / Commute (15s buffer)</string>
+
+    <string name="manage_favorites">Manage &amp; Order Favorites</string>
+    <string name="manage_favorites_subtitle">Reorder stations with arrows or remove them</string>
+    <string name="add_custom_station">Add Custom Radio Stream</string>
+    <string name="dialog_add_station_title">Add New Radio Station</string>
+    <string name="station_name">Station Name</string>
+    <string name="stream_url">Stream URL</string>
+    <string name="station_genre">Genre (e.g. Pop, Rock, Retro, Jazz)</string>
+    <string name="station_country">Country (e.g. Hungary, Slovakia, USA)</string>
+    <string name="station_language">Language (e.g. English, Hungarian, Slovak)</string>
+    <string name="station_icon_url">Logo URL (optional)</string>
+    <string name="action_save">Save</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_play">Play</string>
+    <string name="action_pause">Pause</string>
+    <string name="action_stop">Stop</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="buffering">Buffering…</string>
+    <string name="connecting">Connecting…</string>
+    <string name="live">LIVE</string>
+    <string name="metadata_waiting">Live Broadcast</string>
+    <string name="unknown_title">zonq</string>
+    <string name="unknown_artist">Live Broadcast</string>
+    <string name="no_favorites">No favorites saved yet. Tap the star icon on any station!</string>
+    <string name="empty_search">No stations found matching your search.</string>
+    <string name="notification_channel_name">zonq Playback</string>
+    <string name="notification_channel_desc">Notification for online radio playback and media controls</string>
+    <string name="done">Done</string>
+    <string name="move_up">Move Up</string>
+    <string name="move_down">Move Down</string>
+    <string name="search_results_header">Results for \"%1$s\" (%2$d)</string>
+    <string name="btn_load_more_stations">Load more stations…</string>
+    <string name="filter_all">All</string>
+    <string name="filter_hungarian">Hungarian</string>
+    <string name="filter_top_voted">Top Voted</string>
+    <string name="filter_trending">Trending</string>
+    <string name="action_shuffle">Shuffle stations</string>
+    <string name="custom_badge">Custom</string>
+    <string name="now_playing_title">NOW PLAYING</string>
+    <string name="live_stream_default">Live Stream</string>
+    <string name="prev_station">Previous Station</string>
+    <string name="next_station">Next Station</string>
+    <string name="vol_down">Volume Down</string>
+    <string name="vol_up">Volume Up</string>
+
+    <!-- Country translations -->
+    <string name="country_hungary">Hungary</string>
+    <string name="country_slovakia">Slovakia</string>
+    <string name="country_czechia">Czech Republic</string>
+    <string name="country_usa">United States</string>
+    <string name="country_uk">United Kingdom</string>
+    <string name="country_germany">Germany</string>
+    <string name="country_france">France</string>
+    <string name="country_italy">Italy</string>
+    <string name="country_spain">Spain</string>
+    <string name="country_switzerland">Switzerland</string>
+    <string name="country_austria">Austria</string>
+
+    <!-- Genre translations -->
+    <string name="genre_pop">Pop</string>
+    <string name="genre_rock">Rock</string>
+    <string name="genre_retro">Retro</string>
+    <string name="genre_dance_electro">Dance / Electro</string>
+    <string name="genre_news">News</string>
+    <string name="genre_jazz">Jazz</string>
+    <string name="genre_classical">Classical</string>
+    <string name="genre_chillout">Chillout</string>
+    <string name="genre_country">Country</string>
+    <string name="genre_hiphop">Hip-Hop</string>
+
+    <!-- Language translations -->
+    <string name="lang_hungarian">Hungarian</string>
+    <string name="lang_slovak">Slovak</string>
+    <string name="lang_czech">Czech</string>
+    <string name="lang_english">English</string>
+    <string name="lang_german">German</string>
+    <string name="lang_french">French</string>
+    <string name="lang_italian">Italian</string>
+    <string name="lang_spanish">Spanish</string>
+
+    <!-- Language selector -->
+    <string name="pref_language">App Language</string>
+    <string name="lang_system_default">System Default</string>
+
+    <!-- Equalizer settings -->
+    <string name="pref_equalizer">Equalizer</string>
+    <string name="pref_equalizer_desc">Audio tuning and sound presets</string>
+    <string name="pref_equalizer_enabled">Equalizer Enabled</string>
+    <string name="pref_equalizer_preset">Equalizer Preset</string>
+    <string name="pref_equalizer_custom_bands">Custom Frequency Bands</string>
+    <string name="pref_equalizer_not_supported">Equalizer will be active when radio playback starts</string>
+
+    <!-- Equalizer Presets (10+ presets) -->
+    <string name="eq_preset_flat">Flat (Default)</string>
+    <string name="eq_preset_bass_boost">Bass Boost</string>
+    <string name="eq_preset_treble_boost">Treble Boost</string>
+    <string name="eq_preset_rock">Rock</string>
+    <string name="eq_preset_pop">Pop</string>
+    <string name="eq_preset_jazz">Jazz</string>
+    <string name="eq_preset_classical">Classical</string>
+    <string name="eq_preset_electronic">Electronic / Dance</string>
+    <string name="eq_preset_vocal">Vocal</string>
+    <string name="eq_preset_speech_news">Speech / News</string>
+    <string name="eq_preset_acoustic">Acoustic</string>
+    <string name="eq_preset_custom">Custom</string>
+
+    <!-- Audio Normalization -->
+    <string name="pref_audio_normalization">Audio Normalization</string>
+    <string name="pref_audio_normalization_desc">Automatically balances volume levels across radio stations</string>
+    <string name="pref_normalization_profile">Normalization Profile</string>
+    <string name="norm_profile_balanced">Balanced (Recommended)</string>
+    <string name="norm_profile_dynamic">Dynamic / Gentle</string>
+    <string name="norm_profile_loud">Loud / Car Mode</string>
+    <string name="status_live_broadcast">LIVE</string>
+    <string name="status_connecting">CONNECTING…</string>
+    <string name="status_paused">PAUSED</string>
+    <string name="status_error">ERROR</string>
+    <string name="status_idle">STANDBY</string>
+    <string name="stream_error_retry">Playback error • Tap to retry</string>
+    <string name="live_online_radio">Live online radio</string>
+    <string name="close">Close</string>
+    <string name="music">Music</string>
+    <string name="favorite">Favorite</string>
+    <string name="action_search">Search</string>
+    <string name="action_clear_search">Clear search</string>
+    <string name="searching_stations">Searching online radio stations…</string>
+    <string name="url_error_valid_stream">Valid http or https stream URL is required</string>
+
+    <!-- Android Auto Categories -->
+    <string name="auto_cat_favorites">Favorites</string>
+    <string name="auto_cat_hungarian">Hungarian Stations</string>
+    <string name="auto_cat_slovak">Slovak Stations</string>
+    <string name="auto_cat_czech">Czech Stations</string>
+    <string name="auto_cat_international">International Stations</string>
+    <string name="auto_cat_all">All Stations</string>
+
+    <!-- TV Full Screen Player -->
+    <string name="tv_back_to_stations">Back to stations</string>
+    <string name="tv_player_title">zonq Radio Player</string>
+    <string name="tv_volume_label">Volume: %1$d%%</string>
+    <string name="tv_normalizer_active">Normalizer active</string>
+    <string name="tv_live_stream_label">LIVE BROADCAST</string>
+    <string name="tv_expand_fullscreen">Full screen</string>
+    <string name="pref_tv_keep_screen_on">Prevent screensaver on TV</string>
+    <string name="pref_tv_keep_screen_on_desc">Keeps the screen active and prevents Android and Google TV ambient screensaver while the app is running</string>
+
+    <!-- zonq.eu Account & Sync -->
+    <string name="zonq_sync_title">zonq.eu Account &amp; Sync</string>
+    <string name="zonq_sync_desc">Sync your favorite stations between zonq.eu website and the app</string>
+    <string name="zonq_logged_in_as">Logged in as: %1$s</string>
+    <string name="zonq_login_button">Log in / Sign up</string>
+    <string name="zonq_sync_now">Sync now</string>
+    <string name="zonq_syncing">Syncing favorites…</string>
+    <string name="zonq_sync_success">Favorites synced successfully (%1$d stations)!</string>
+    <string name="zonq_sync_failed">Sync failed. Check your internet connection.</string>
+    <string name="zonq_logout">Log out</string>
+    <string name="zonq_logout_confirm">Are you sure you want to log out from zonq.eu?</string>
+    <string name="zonq_tab_login">Log In</string>
+    <string name="zonq_tab_register">Sign Up</string>
+    <string name="zonq_email_hint">Email address</string>
+    <string name="zonq_password_hint">Password (min. 8 characters)</string>
+    <string name="zonq_dialog_hint">Log in with your zonq.eu account or create a new one. Your favorite radio stations will sync automatically between the app and the web!</string>
+    <string name="zonq_err_invalid_creds">Incorrect email or password.</string>
+    <string name="zonq_err_invalid_email">Please enter a valid email address.</string>
+    <string name="zonq_err_email_taken">An account with this email address already exists.</string>
+    <string name="zonq_err_weak_password">Password must be at least 8 characters long.</string>
+    <string name="zonq_err_network">Network error occurred. Please try again.</string>
+    <string name="zonq_err_auth_expired">Your session has expired. Please log in again.</string>
+    <string name="zonq_reg_success">Account created and logged in successfully!</string>
+    <string name="zonq_favs_synced_badge">Favorites synced</string>
+    <string name="zonq_not_logged_in_favs_hint">Sign in with your zonq.eu account to sync your favorites across all devices.</string>
+    <string name="zonq_forgot_password">Forgot password?</string>
+    <string name="zonq_forgot_sent">Password reset email sent!</string>
+    <string name="zonq_delete_account">Delete account</string>
+    <string name="zonq_delete_account_confirm">Are you sure you want to permanently delete your zonq.eu account? Your favorites and profile will be removed. This action cannot be undone!</string>
+    <string name="zonq_delete_account_pass_hint">Enter your password to confirm deletion</string>
+    <string name="zonq_account_deleted">Account deleted successfully.</string>
+    <string name="zonq_status_synced">Synced: %1$s</string>
+    <string name="zonq_status_syncing">Syncing…</string>
+    <string name="zonq_status_offline">Offline – changes will sync later</string>
+    <string name="zonq_err_limit">Favorites limit reached (500).</string>
+    <string name="zonq_err_too_many">Too many attempts. Please wait.</string>
+    <string name="zonq_err_registration_closed">Registration is currently closed.</string>
+    <string name="zonq_err_admin_account">Admin account cannot be deleted from the app.</string>
+
+    <!-- App Updater (zonq.eu/api.php?a=apk) -->
+    <string name="update_section_title">App Update</string>
+    <string name="update_section_desc">Manual and automatic updates from the zonq.eu server</string>
+    <string name="update_check_button">Check for updates</string>
+    <string name="update_checking">Checking for updates…</string>
+    <string name="update_available_title">New version available!</string>
+    <string name="update_available_desc">A newer version is available on zonq.eu. Would you like to download the update?</string>
+    <string name="update_up_to_date">You are using the latest version (%1$s)</string>
+    <string name="update_remote_time">Uploaded on server: %1$s</string>
+    <string name="update_local_time">Currently installed: %1$s</string>
+    <string name="update_size">Size: %1$s</string>
+    <string name="update_download_button">Download</string>
+    <string name="update_later_button">Cancel</string>
+    <string name="update_download_started">Update download started…</string>
+    <string name="update_check_failed">Failed to check for updates.</string>
+
+    <!-- Settings Sections -->
+    <string name="settings_section_account">Account &amp; Sync</string>
+    <string name="settings_section_audio">Audio &amp; Playback</string>
+    <string name="settings_section_display">Appearance &amp; Interface</string>
+    <string name="settings_section_tools">Stations &amp; Maintenance</string>
+</resources>

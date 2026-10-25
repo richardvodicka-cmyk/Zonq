@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">zonq</string>
+    <string name="tab_stations">Všetky stanice</string>
+    <string name="tab_favorites">Obľúbené</string>
+    <string name="tab_categories">Kategórie</string>
+    <string name="tab_countries">Krajiny</string>
+    <string name="tab_genres">Žánre</string>
+    <string name="tab_languages">Jazyky</string>
+    <string name="search_hint">Hľadať podľa názvu rádia…</string>
+    <string name="settings_title">Nastavenia</string>
+    <string name="pref_audio_quality">Kvalita prehrávania</string>
+    <string name="pref_audio_quality_auto">Automatická (podľa rýchlosti internetu)</string>
+    <string name="pref_audio_quality_high">Vysoká kvalita (192+ kbps)</string>
+    <string name="pref_audio_quality_standard">Štandardná kvalita (128 kbps)</string>
+    <string name="pref_audio_quality_saver">Úspora dát (64 kbps)</string>
+    <string name="pref_auto_play">Automatické prehrávanie pri spustení</string>
+    <string name="pref_auto_play_desc">Spustiť naposledy hrané rádio pri otvorení aplikácie</string>
+    <string name="pref_default_screen">Predvolená obrazovka</string>
+    <string name="pref_default_screen_favs">Obľúbené</string>
+    <string name="pref_default_screen_all">Všetky stanice</string>
+    <string name="pref_theme">Vzhľad</string>
+    <string name="pref_theme_system">Predvolený systémom</string>
+    <string name="pref_theme_dark">Tmavý režim</string>
+    <string name="pref_theme_light">Svetlý režim</string>
+
+    <!-- Buffer Time Settings -->
+    <string name="pref_buffer_time">Doba vyrovnávacej pamäte (buffer)</string>
+    <string name="pref_buffer_short">Rýchly štart (3 s buffer)</string>
+    <string name="pref_buffer_normal">Predvolená (5 s buffer)</string>
+    <string name="pref_buffer_large">Stabilná / Na cesty (15 s buffer)</string>
+
+    <string name="manage_favorites">Správa a poradie obľúbených</string>
+    <string name="manage_favorites_subtitle">Zmeňte poradie šípkami alebo odstráňte stanicu</string>
+    <string name="add_custom_station">Pridať vlastný rádiový stream</string>
+    <string name="dialog_add_station_title">Pridať novú rádiovú stanicu</string>
+    <string name="station_name">Názov stanice</string>
+    <string name="stream_url">Stream URL</string>
+    <string name="station_genre">Žáner (napr. Pop, Rock, Retro, Jazz)</string>
+    <string name="station_country">Krajina (napr. Slovensko, Česko, Maďarsko)</string>
+    <string name="station_language">Jazyk (napr. Slovenčina, Čeština)</string>
+    <string name="station_icon_url">URL loga (voliteľné)</string>
+    <string name="action_save">Uložiť</string>
+    <string name="action_cancel">Zrušiť</string>
+    <string name="action_delete">Odstrániť</string>
+    <string name="action_play">Prehrať</string>
+    <string name="action_pause">Pozastaviť</string>
+    <string name="action_stop">Zastaviť</string>
+    <string name="now_playing">Práve hrá</string>
+    <string name="buffering">Načítava sa…</string>
+    <string name="connecting">Pripája sa…</string>
+    <string name="live">NAŽIVO</string>
+    <string name="metadata_waiting">Živé vysielanie</string>
+    <string name="unknown_title">zonq</string>
+    <string name="unknown_artist">Živé vysielanie</string>
+    <string name="no_favorites">Zatiaľ nemáte žiadne obľúbené stanice. Kliknite na ikonu hviezdičky pri ktorejkoľvek stanici!</string>
+    <string name="empty_search">Nenašli sa žiadne stanice zodpovedajúce vyhľadávaniu.</string>
+    <string name="notification_channel_name">Prehrávanie zonq</string>
+    <string name="notification_channel_desc">Upozornenie na streamovanie a ovládanie online rádia</string>
+    <string name="done">Hotovo</string>
+    <string name="move_up">Posunúť vyššie</string>
+    <string name="move_down">Posunúť nižšie</string>
+    <string name="search_results_header">Výsledky pre \"%1$s\" (%2$d)</string>
+    <string name="btn_load_more_stations">Načítať ďalšie stanice…</string>
+    <string name="filter_all">Všetky</string>
+    <string name="filter_hungarian">Maďarské stanice</string>
+    <string name="filter_top_voted">Najlepšie hodnotené</string>
+    <string name="filter_trending">Populárne</string>
+    <string name="action_shuffle">Náhodné poradie</string>
+    <string name="custom_badge">Vlastné</string>
+    <string name="now_playing_title">PRÁVE HRÁ</string>
+    <string name="live_stream_default">Živé vysielanie</string>
+    <string name="prev_station">Predchádzajúca stanica</string>
+    <string name="next_station">Nasledujúca stanica</string>
+    <string name="vol_down">Znížiť hlasitosť</string>
+    <string name="vol_up">Zvýšiť hlasitosť</string>
+
+    <!-- Country translations -->
+    <string name="country_hungary">Maďarsko</string>
+    <string name="country_slovakia">Slovensko</string>
+    <string name="country_czechia">Česko</string>
+    <string name="country_usa">Spojené štáty</string>
+    <string name="country_uk">Spojené kráľovstvo</string>
+    <string name="country_germany">Nemecko</string>
+    <string name="country_france">Francúzsko</string>
+    <string name="country_italy">Taliansko</string>
+    <string name="country_spain">Španielsko</string>
+    <string name="country_switzerland">Švajčiarsko</string>
+    <string name="country_austria">Rakúsko</string>
+
+    <!-- Genre translations -->
+    <string name="genre_pop">Pop</string>
+    <string name="genre_rock">Rock</string>
+    <string name="genre_retro">Retro</string>
+    <string name="genre_dance_electro">Dance / Elektro</string>
+    <string name="genre_news">Správy</string>
+    <string name="genre_jazz">Jazz</string>
+    <string name="genre_classical">Klasická hudba</string>
+    <string name="genre_chillout">Chillout</string>
+    <string name="genre_country">Country</string>
+    <string name="genre_hiphop">Hip-Hop</string>
+
+    <!-- Language translations -->
+    <string name="lang_hungarian">Maďarčina</string>
+    <string name="lang_slovak">Slovenčina</string>
+    <string name="lang_czech">Čeština</string>
+    <string name="lang_english">Angličtina</string>
+    <string name="lang_german">Nemčina</string>
+    <string name="lang_french">Francúzština</string>
+    <string name="lang_italian">Taliančina</string>
+    <string name="lang_spanish">Španielčina</string>
+
+    <!-- Language selector -->
+    <string name="pref_language">Jazyk aplikácie</string>
+    <string name="lang_system_default">Predvolený systémom</string>
+
+    <!-- Equalizer settings -->
+    <string name="pref_equalizer">Ekvalizér (Equalizer)</string>
+    <string name="pref_equalizer_desc">Prispôsobenie zvuku a preddefinované profily</string>
+    <string name="pref_equalizer_enabled">Ekvalizér zapnutý</string>
+    <string name="pref_equalizer_preset">Zvukový profil</string>
+    <string name="pref_equalizer_custom_bands">Vlastné frekvenčné pásma</string>
+    <string name="pref_equalizer_not_supported">Ekvalizér bude dostupný po spustení prehrávania rádia</string>
+
+    <!-- Equalizer Presets (10+ presets) -->
+    <string name="eq_preset_flat">Plochý / Predvolený (Flat)</string>
+    <string name="eq_preset_bass_boost">Zosilnenie basov (Bass Boost)</string>
+    <string name="eq_preset_treble_boost">Zosilnenie výšok (Treble)</string>
+    <string name="eq_preset_rock">Rock</string>
+    <string name="eq_preset_pop">Pop</string>
+    <string name="eq_preset_jazz">Jazz</string>
+    <string name="eq_preset_classical">Klasická hudba (Classical)</string>
+    <string name="eq_preset_electronic">Elektronická / Dance</string>
+    <string name="eq_preset_vocal">Zvýraznenie spevu (Vocal)</string>
+    <string name="eq_preset_speech_news">Reč / Správy</string>
+    <string name="eq_preset_acoustic">Akustická (Acoustic)</string>
+    <string name="eq_preset_custom">Vlastný (Custom)</string>
+
+    <!-- Audio Normalization -->
+    <string name="pref_audio_normalization">Normalizácia hlasitosti</string>
+    <string name="pref_audio_normalization_desc">Automaticky vyrovnáva rozdiely v hlasitosti medzi stanicami</string>
+    <string name="pref_normalization_profile">Profil vyrovnávania</string>
+    <string name="norm_profile_balanced">Vyvážený (Odporúčané)</string>
+    <string name="norm_profile_dynamic">Dynamický / Jemný</string>
+    <string name="norm_profile_loud">Hlasný / Auto režim</string>
+    <string name="status_live_broadcast">NAŽIVO</string>
+    <string name="status_connecting">PRIPÁJA SA…</string>
+    <string name="status_paused">POZASTAVENÉ</string>
+    <string name="status_error">CHYBA</string>
+    <string name="status_idle">POHOTOVOSŤ</string>
+    <string name="stream_error_retry">Chyba vysielania • Klepnutím prehrajte</string>
+    <string name="live_online_radio">Živé online rádio</string>
+    <string name="close">Zavrieť</string>
+    <string name="music">Hudba</string>
+    <string name="favorite">Obľúbené</string>
+    <string name="action_search">Hľadať</string>
+    <string name="action_clear_search">Vymazať vyhľadávanie</string>
+    <string name="searching_stations">Hľadanie rádiových staníc…</string>
+    <string name="url_error_valid_stream">Vyžaduje sa platný odkaz http alebo https</string>
+
+    <!-- Android Auto Categories -->
+    <string name="auto_cat_favorites">Obľúbené</string>
+    <string name="auto_cat_hungarian">Maďarské stanice</string>
+    <string name="auto_cat_slovak">Slovenské stanice</string>
+    <string name="auto_cat_czech">České stanice</string>
+    <string name="auto_cat_international">Medzinárodné stanice</string>
+    <string name="auto_cat_all">Všetky stanice</string>
+
+    <!-- TV Full Screen Player -->
+    <string name="tv_back_to_stations">Späť na stanice</string>
+    <string name="tv_player_title">zonq Rádioprehrávač</string>
+    <string name="tv_volume_label">Hlasitosť: %1$d%%</string>
+    <string name="tv_normalizer_active">Normalizátor aktívny</string>
+    <string name="tv_live_stream_label">ŽIVÉ VYSIELANIE</string>
+    <string name="tv_expand_fullscreen">Celá obrazovka</string>
+    <string name="pref_tv_keep_screen_on">Zabrániť šetriču obrazovky na TV</string>
+    <string name="pref_tv_keep_screen_on_desc">Zabráni spusteniu šetriča obrazovky Android a Google TV počas behu aplikácie</string>
+
+    <!-- zonq.eu Account & Sync -->
+    <string name="zonq_sync_title">Účet &amp; Synchronizácia zonq.eu</string>
+    <string name="zonq_sync_desc">Synchronizujte obľúbené rádiá medzi webom zonq.eu a aplikáciou</string>
+    <string name="zonq_logged_in_as">Prihlásený ako: %1$s</string>
+    <string name="zonq_login_button">Prihlásenie / Registrácia</string>
+    <string name="zonq_sync_now">Synchronizovať teraz</string>
+    <string name="zonq_syncing">Prebieha synchronizácia…</string>
+    <string name="zonq_sync_success">Obľúbené rádiá boli úspešne synchronizované (%1$d staníc)!</string>
+    <string name="zonq_sync_failed">Synchronizácia zlyhala. Skontrolujte internetové pripojenie.</string>
+    <string name="zonq_logout">Odhlásiť sa</string>
+    <string name="zonq_logout_confirm">Naozaj sa chcete odhlásiť z účtu zonq.eu?</string>
+    <string name="zonq_tab_login">Prihlásenie</string>
+    <string name="zonq_tab_register">Registrácia</string>
+    <string name="zonq_email_hint">E-mailová adresa</string>
+    <string name="zonq_password_hint">Heslo (aspoň 8 znakov)</string>
+    <string name="zonq_dialog_hint">Prihláste sa pomocou účtu z webu zonq.eu alebo si vytvorte nový účet. Vaše obľúbené rádiá sa automaticky zosynchronizujú medzi webom a aplikáciou!</string>
+    <string name="zonq_err_invalid_creds">Nesprávny e-mail alebo heslo.</string>
+    <string name="zonq_err_invalid_email">Zadajte platnú e-mailovú adresu.</string>
+    <string name="zonq_err_email_taken">Účet s touto e-mailovou adresou už existuje.</string>
+    <string name="zonq_err_weak_password">Heslo musí mať aspoň 8 znakov.</string>
+    <string name="zonq_err_network">Vyskytla sa chyba siete. Skúste to znova.</string>
+    <string name="zonq_err_auth_expired">Vaša relácia vypršala. Prihláste sa znova.</string>
+    <string name="zonq_reg_success">Úspešná registrácia a prihlásenie!</string>
+    <string name="zonq_favs_synced_badge">Obľúbené synchronizované</string>
+    <string name="zonq_not_logged_in_favs_hint">Prihláste sa pomocou účtu zonq.eu, aby sa vaše obľúbené stanice z webu zobrazili aj tu.</string>
+    <string name="zonq_forgot_password">Zabudnuté heslo?</string>
+    <string name="zonq_forgot_sent">E-mail na obnovenie hesla bol odoslaný!</string>
+    <string name="zonq_delete_account">Zmazať účet</string>
+    <string name="zonq_delete_account_confirm">Naozaj chcete natrvalo zmazať svoj účet zonq.eu? Obľúbené stanice a profil sa vymažú. Túto akciu nemožno vrátiť späť!</string>
+    <string name="zonq_delete_account_pass_hint">Zadajte heslo na potvrdenie zmazania</string>
+    <string name="zonq_account_deleted">Účet bol úspešne zmazaný.</string>
+    <string name="zonq_status_synced">Synchronizované: %1$s</string>
+    <string name="zonq_status_syncing">Prebieha synchronizácia…</string>
+    <string name="zonq_status_offline">Offline – zmeny sa zosynchronizujú neskôr</string>
+    <string name="zonq_err_limit">Dosiahli ste limit obľúbených staníc (500).</string>
+    <string name="zonq_err_too_many">Príliš veľa pokusov. Chvíľu počkajte.</string>
+    <string name="zonq_err_registration_closed">Registrácia je momentálne pozastavená.</string>
+    <string name="zonq_err_admin_account">Administrátorský účet nemožno zmazať z aplikácie.</string>
+
+    <!-- App Updater (zonq.eu/api.php?a=apk) -->
+    <string name="update_section_title">Aktualizácia aplikácie</string>
+    <string name="update_section_desc">Manuálna a automatická aktualizácia zo servera zonq.eu</string>
+    <string name="update_check_button">Skontrolovať aktualizácie</string>
+    <string name="update_checking">Kontrola aktualizácií…</string>
+    <string name="update_available_title">K dispozícii je nová verzia!</string>
+    <string name="update_available_desc">Na serveri zonq.eu je dostupná novšia verzia. Chcete stiahnuť aktualizáciu?</string>
+    <string name="update_up_to_date">Používate najnovšiu verziu (%1$s)</string>
+    <string name="update_remote_time">Nahrané na serveri: %1$s</string>
+    <string name="update_local_time">Aktuálne nainštalované: %1$s</string>
+    <string name="update_size">Veľkosť: %1$s</string>
+    <string name="update_download_button">Stiahnuť</string>
+    <string name="update_later_button">Zrušiť</string>
+    <string name="update_download_started">Sťahovanie aktualizácie sa začalo…</string>
+    <string name="update_check_failed">Nepodarilo sa skontrolovať aktualizácie.</string>
+
+    <!-- Settings Sections -->
+    <string name="settings_section_account">Účet a synchronizácia</string>
+    <string name="settings_section_audio">Zvuk a prehrávanie</string>
+    <string name="settings_section_display">Vzhľad a rozhranie</string>
+    <string name="settings_section_tools">Stanice a údržba</string>
+</resources>

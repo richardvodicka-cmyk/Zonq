@@ -1,0 +1,97 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="hu-retro" tvg-name="Retro Rádió" tvg-logo="https://retroradio.hu/wp-content/themes/retro/images/logo.png" tvg-country="Magyarország" group-title="Magyarország",Retro Rádió (Retro, Pop, 80s, 90s)
+https://icast.connectmedia.hu/5001/live.mp3
+#EXTINF:-1 tvg-id="hu-radio1" tvg-name="Rádió 1" tvg-logo="https://www.radio1.hu/wp-content/themes/radio1/images/logo.png" tvg-country="Magyarország" group-title="Magyarország",Rádió 1 (Pop, Dance, Top 40, Mai slágerek)
+http://icast.connectmedia.hu/5201/live.mp3
+#EXTINF:-1 tvg-id="hu-slager" tvg-name="Sláger FM" tvg-logo="https://slagerfm.hu/assets/images/logo.png" tvg-country="Magyarország" group-title="Magyarország",Sláger FM (Pop, Retro, Slágerek)
+http://92.61.114.159:7812/slagerfm256.mp3
+#EXTINF:-1 tvg-id="hu-kossuth" tvg-name="Kossuth Rádió" tvg-logo="https://mediaklikk.hu/wp-content/uploads/sites/4/2016/06/kossuth_logo.png" tvg-country="Magyarország" group-title="Magyarország",Kossuth Rádió (Hírek, Beszélgetős, Közélet)
+http://mr-stream.mediaconnect.hu/4734/mr1.aac
+#EXTINF:-1 tvg-id="hu-petofi" tvg-name="Petőfi Rádió" tvg-logo="https://mediaklikk.hu/wp-content/uploads/sites/4/2016/06/petofi_logo.png" tvg-country="Magyarország" group-title="Magyarország",Petőfi Rádió (Pop, Rock, Magyar zene)
+http://mr-stream.mediaconnect.hu/4737/mr2.aac
+#EXTINF:-1 tvg-id="hu-danko" tvg-name="Dankó Rádió" tvg-logo="https://mediaklikk.hu/wp-content/uploads/sites/4/2016/06/danko_logo.png" tvg-country="Magyarország" group-title="Magyarország",Dankó Rádió (Népzene, Magyar nóta, Operett)
+http://mr-stream.mediaconnect.hu/4747/mr7.aac
+#EXTINF:-1 tvg-id="hu-megadance" tvg-name="MegaDance Rádió" tvg-logo="https://megadance.hu/logo.png" tvg-country="Magyarország" group-title="Magyarország",MegaDance Rádió (Dance / Electro, EDM, Club)
+http://megadanceradio.hopto.org:8000/livemega.mp3
+#EXTINF:-1 tvg-id="hu-dancewave-retro" tvg-name="Dance Wave Retro" tvg-logo="https://dancewave.online/favicon.ico" tvg-country="Magyarország" group-title="Magyarország",Dance Wave Retro (Retro, Dance, 80s, 90s)
+https://dancewave.online/retrodance.mp3
+#EXTINF:-1 tvg-id="hu-bestfm" tvg-name="Best FM" tvg-logo="https://bestfm.hu/images/bestfm_logo.png" tvg-country="Magyarország" group-title="Magyarország",Best FM (Pop, Retro, Slágerek)
+http://stream.webthings.hu:8000/fm95-x-128.mp3
+#EXTINF:-1 tvg-id="hu-klubradio" tvg-name="Klubrádió" tvg-logo="https://klubradio.hu/images/klubradio.png" tvg-country="Magyarország" group-title="Magyarország",Klubrádió (Hírek, Közélet, Beszélgetős)
+https://a7.asurahosting.com:8160/radio.mp3
+#EXTINF:-1 tvg-id="hu-oxygen80s" tvg-name="Oxygen The 80s Hits" tvg-logo="https://oxygenmusic.hu/favicon.ico" tvg-country="Magyarország" group-title="Magyarország",Oxygen The 80s Hits (Retro, 80s, Pop)
+https://oxygenmusic.hu:8443/oxygenthe80shits
+#EXTINF:-1 tvg-id="hu-poptarisznya" tvg-name="Poptarisznya" tvg-logo="https://poptarisznya.hu/logo.png" tvg-country="Magyarország" group-title="Magyarország",Poptarisznya (Pop, Slágerek, Retro)
+http://adas.poptarisznya.hu:8200/live.mp3
+#EXTINF:-1 tvg-id="sk-expres" tvg-name="Rádio Expres" tvg-logo="https://www.expres.sk/favicon.ico" tvg-country="Szlovákia" group-title="Szlovákia",Rádio Expres (Pop, Top 40, Hits)
+http://stream.expres.sk/128.mp3
+#EXTINF:-1 tvg-id="sk-funradio" tvg-name="Fun Rádio" tvg-logo="https://www.funradio.sk/favicon.ico" tvg-country="Szlovákia" group-title="Szlovákia",Fun Rádio (Pop, Dance, Hits, Slágerek)
+http://stream.funradio.sk:8000/fun128.mp3
+#EXTINF:-1 tvg-id="sk-vlna" tvg-name="Rádio Vlna" tvg-logo="https://www.radiovlna.sk/favicon.ico" tvg-country="Szlovákia" group-title="Szlovákia",Rádio Vlna (Oldies, Retro, 80s, 90s, Pop)
+http://stream.radiovlna.sk/vlna-hi.mp3
+#EXTINF:-1 tvg-id="sk-slovensko" tvg-name="SRo 1 Rádio Slovensko" tvg-logo="https://slovensko.rtvs.sk/favicon.ico" tvg-country="Szlovákia" group-title="Szlovákia",SRo 1 Rádio Slovensko (Hírek, Közélet, Pop)
+http://live.slovakradio.sk:8000/Slovensko_128.mp3
+#EXTINF:-1 tvg-id="sk-europa2" tvg-name="Europa 2 SK" tvg-logo="https://www.europa2.sk/favicon.ico" tvg-country="Szlovákia" group-title="Szlovákia",Europa 2 SK (Dance / Electro, Pop, Top 40)
+https://stream.bauermedia.sk/europa2.mp3
+#EXTINF:-1 tvg-id="sk-melody" tvg-name="Rádio Melody" tvg-logo="https://www.radiomelody.sk/favicon.ico" tvg-country="Szlovákia" group-title="Szlovákia",Rádio Melody (Retro, Slágerek, 70s, 80s)
+https://stream.bauermedia.sk/melody-hi.mp3
+#EXTINF:-1 tvg-id="sk-radiofm" tvg-name="Rádio _FM" tvg-logo="https://efemko.rtvs.sk/favicon.ico" tvg-country="Szlovákia" group-title="Szlovákia",Rádio _FM (Alternatív, Indie, Electronic, Rock)
+https://icecast.stv.livebox.sk/fm_128.mp3
+#EXTINF:-1 tvg-id="sk-fun-retro" tvg-name="Fun Rádio 80 & 90" tvg-logo="https://www.funradio.sk/favicon.ico" tvg-country="Szlovákia" group-title="Szlovákia",Fun Rádio 80 & 90 (Retro, 80s, 90s, Pop)
+http://stream.funradio.sk:8000/80-90-128.mp3
+#EXTINF:-1 tvg-id="sk-vlna-rock" tvg-name="Rádio Vlna Classic Rock" tvg-logo="https://www.radiovlna.sk/favicon.ico" tvg-country="Szlovákia" group-title="Szlovákia",Rádio Vlna Classic Rock (Rock, Classic Rock, Hard Rock)
+http://stream.radiovlna.sk:8000/rock-hi.mp3
+#EXTINF:-1 tvg-id="sk-devin" tvg-name="SRo 3 Rádio Devín" tvg-logo="https://devin.rtvs.sk/favicon.ico" tvg-country="Szlovákia" group-title="Szlovákia",SRo 3 Rádio Devín (Klasszikus, Jazz, Kultúra)
+http://icecast.stv.livebox.sk/devin_128.mp3
+#EXTINF:-1 tvg-id="cz-radiozurnal" tvg-name="ČRo Radiožurnál" tvg-logo="https://radiozurnal.rozhlas.cz/sites/all/themes/custom/cro_theme/favicon.ico" tvg-country="Csehország" group-title="Csehország",ČRo Radiožurnál (Hírek, Közélet, Pop)
+http://icecast8.play.cz/cro1-128.mp3
+#EXTINF:-1 tvg-id="cz-beat" tvg-name="Radio Beat" tvg-logo="https://www.radiobeat.cz/favicon.ico" tvg-country="Csehország" group-title="Csehország",Radio Beat (Rock, Classic Rock, Metal)
+http://icecast2.play.cz/radiobeat128.mp3
+#EXTINF:-1 tvg-id="cz-blanik" tvg-name="Rádio Blaník" tvg-logo="https://www.radioblanik.cz/favicon.ico" tvg-country="Csehország" group-title="Csehország",Rádio Blaník (Pop, Cseh slágerek, Oldies)
+http://ice.abradio.cz/blanikfm128.mp3
+#EXTINF:-1 tvg-id="cz-kiss" tvg-name="Kiss 98 FM" tvg-logo="https://www.kiss.cz/favicon.ico" tvg-country="Csehország" group-title="Csehország",Kiss 98 FM (Pop, Dance, 90s, 00s)
+http://icecast2.play.cz:8000/kiss128aac
+#EXTINF:-1 tvg-id="cz-casrock" tvg-name="Radio Čas Rock" tvg-logo="https://casrock.cz/favicon.ico" tvg-country="Csehország" group-title="Csehország",Radio Čas Rock (Rock, Hard Rock, Modern Rock)
+http://icecast6.play.cz/casrock128.mp3
+#EXTINF:-1 tvg-id="cz-country" tvg-name="Country Radio CZ" tvg-logo="https://www.countryradio.cz/favicon.ico" tvg-country="Csehország" group-title="Csehország",Country Radio CZ (Country, Folk, Akusztikus)
+http://icecast2.play.cz:8000/country128aac
+#EXTINF:-1 tvg-id="cz-rockradio" tvg-name="Radio ROCK CZ" tvg-logo="https://rockradio.cz/favicon.ico" tvg-country="Csehország" group-title="Csehország",Radio ROCK CZ (Rock, Modern Rock)
+http://ice.abradio.cz/rockradio128.mp3
+#EXTINF:-1 tvg-id="cz-kisshady" tvg-name="Kiss Hády" tvg-logo="https://www.kiss.cz/favicon.ico" tvg-country="Csehország" group-title="Csehország",Kiss Hády (Dance, Pop, Hits)
+http://icecast8.play.cz/kisshady128.mp3
+#EXTINF:-1 tvg-id="us-smoothjazz" tvg-name="101 Smooth Jazz" tvg-logo="http://101smoothjazz.com/favicon.ico" tvg-country="Egyesült Államok" group-title="Egyesült Államok",101 Smooth Jazz (Jazz, Smooth Jazz, Lounge)
+http://jking.cdnstream1.com/b22139_128mp3
+#EXTINF:-1 tvg-id="us-classicvinyl" tvg-name="Classic Vinyl HD" tvg-logo="https://icecast.walmradio.com:8443/classic.jpg" tvg-country="Egyesült Államok" group-title="Egyesült Államok",Classic Vinyl HD (Oldies, 50s, 60s, Nostalgia)
+https://icecast.walmradio.com:8443/classic
+#EXTINF:-1 tvg-id="us-adroitjazz" tvg-name="Adroit Jazz Underground" tvg-logo="https://icecast.walmradio.com:8443/jazz.jpg" tvg-country="Egyesült Államok" group-title="Egyesült Államok",Adroit Jazz Underground (Jazz, Bebop, Big Band)
+https://icecast.walmradio.com:8443/jazz
+#EXTINF:-1 tvg-id="us-groovesalad" tvg-name="SomaFM Groove Salad" tvg-logo="https://somafm.com/img3/groovesalad120.png" tvg-country="Egyesült Államok" group-title="Egyesült Államok",SomaFM Groove Salad (Chillout, Ambient, Downtempo)
+https://ice1.somafm.com/groovesalad-128-mp3
+#EXTINF:-1 tvg-id="us-secretagent" tvg-name="SomaFM Secret Agent" tvg-logo="https://somafm.com/img3/secretagent120.png" tvg-country="Egyesült Államok" group-title="Egyesült Államok",SomaFM Secret Agent (Lounge, Spy, Retro, 60s)
+https://ice1.somafm.com/secretagent-128-mp3
+#EXTINF:-1 tvg-id="us-kexp" tvg-name="KEXP 90.3 FM Seattle" tvg-logo="https://kexp.org/static/assets/img/kexp-logo.svg" tvg-country="Egyesült Államok" group-title="Egyesült Államok",KEXP 90.3 FM Seattle (Indie, Rock, Alternatív)
+https://kexp-mp3-128.streamguys1.com/kexp128.mp3
+#EXTINF:-1 tvg-id="us-oldtimeradio" tvg-name="WALM Old Time Radio" tvg-logo="https://icecast.walmradio.com:8443/otr.jpg" tvg-country="Egyesült Államok" group-title="Egyesült Államok",WALM Old Time Radio (Retro, Classic, OTR, Drama)
+https://icecast.walmradio.com:8443/otr
+#EXTINF:-1 tvg-id="uk-bbc-world" tvg-name="BBC World Service" tvg-logo="http://cdn-profiles.tunein.com/s24948/images/logoq.jpg?t=1" tvg-country="Egyesült Királyság" group-title="Egyesült Királyság",BBC World Service (Hírek, Beszélgetős, Világhírek)
+http://stream.live.vc.bbcmedia.co.uk/bbc_world_service
+#EXTINF:-1 tvg-id="uk-capital" tvg-name="Capital FM London" tvg-logo="http://assets6.capitalfm.com/2016/11/capital-3d-network-logo-large-canvas-1458228638-herowidev4-0.jpg" tvg-country="Egyesült Királyság" group-title="Egyesült Királyság",Capital FM London (Pop, Top 40, Slágerek)
+http://media-ice.musicradio.com/CapitalMP3
+#EXTINF:-1 tvg-id="uk-classic" tvg-name="Classic FM UK" tvg-logo="http://www.classicfm.com/assets_v4r/classic/img/favicon-196x196.png" tvg-country="Egyesült Királyság" group-title="Egyesült Királyság",Classic FM UK (Klasszikus, Filmzene)
+http://ice-the.musicradio.com/ClassicFMMP3
+#EXTINF:-1 tvg-id="uk-heart80s" tvg-name="Heart 80s" tvg-logo="https://www.heart.co.uk/assets_v4r/heart/img/favicon-196x196.png" tvg-country="Egyesült Királyság" group-title="Egyesült Királyság",Heart 80s (Retro, 80s, Pop)
+https://media-ssl.musicradio.com/Heart80sMP3
+#EXTINF:-1 tvg-id="uk-heart" tvg-name="Heart London 106.2" tvg-logo="https://cdn-profiles.tunein.com/s2846/images/logoq.jpg" tvg-country="Egyesült Királyság" group-title="Egyesült Királyság",Heart London 106.2 (Pop, Slágerek, 90s, 00s)
+http://ice-sov.musicradio.com/HeartLondonMP3
+#EXTINF:-1 tvg-id="uk-lbc" tvg-name="LBC Radio London" tvg-logo="http://www.lbc.co.uk/assets_v4r/lbc/img/favicon-196x196.png" tvg-country="Egyesült Királyság" group-title="Egyesült Királyság",LBC Radio London (Hírek, Talk, Közélet)
+http://media-sov.musicradio.com/LBC973MP3Low
+#EXTINF:-1 tvg-id="uk-caroline" tvg-name="Radio Caroline" tvg-logo="http://www.radiocaroline.co.uk/favicon.ico" tvg-country="Egyesült Királyság" group-title="Egyesült Királyság",Radio Caroline (Rock, Pop, Country)
+http://78.129.202.200:8040/;
+#EXTINF:-1 tvg-id="de-1live" tvg-name="WDR 1LIVE" tvg-logo="https://www1.wdr.de/radio/1live/einslive_logo100.png" tvg-country="Németország" group-title="Németország",WDR 1LIVE (Pop, Dance, Top 40)
+https://wdr-1live-live.icecast.wdr.de/wdr/1live/live/mp3/128/stream.mp3
+#EXTINF:-1 tvg-id="de-antenne" tvg-name="Antenne Bayern" tvg-logo="https://www.antenne.de/assets/img/logo.png" tvg-country="Németország" group-title="Németország",Antenne Bayern (Pop, Slágerek, 80s, 90s)
+https://stream.antenne.de/antenne/stream/mp3
+#EXTINF:-1 tvg-id="es-ibiza" tvg-name="Ibiza Global Radio" tvg-logo="https://ibizaglobalradio.com/wp-content/themes/ibizaglobal/img/logo.png" tvg-country="Spanyolország" group-title="Spanyolország",Ibiza Global Radio (Dance / Electro, Electronic, House)
+https://listenssl.ibizaglobalradio.com:8024/ibizaglobalradio.mp3
+#EXTINF:-1 tvg-id="fr-nrj" tvg-name="NRJ France" tvg-logo="https://www.nrj.fr/assets/img/logo-nrj.svg" tvg-country="Franciaország" group-title="Franciaország",NRJ France (Pop, Dance, Hits)
+https://scdn.nrjaudio.fm/audio1/fr/30001/mp3_128.mp3

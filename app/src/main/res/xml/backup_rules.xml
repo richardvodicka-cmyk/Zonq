@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <include domain="database" path="online_radio_database" />
+    <include domain="file" path="datastore/radio_settings.preferences_pb" />
+    <include domain="sharedpref" path="." />
+</full-backup-content>

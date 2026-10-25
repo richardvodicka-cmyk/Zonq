@@ -1,0 +1,238 @@
+<resources>
+    <string name="app_name">zonq</string>
+    <string name="tab_stations">Összes rádió</string>
+    <string name="tab_favorites">Kedvencek</string>
+    <string name="tab_categories">Kategóriák</string>
+    <string name="tab_countries">Országok</string>
+    <string name="tab_genres">Műfajok</string>
+    <string name="tab_languages">Nyelvek</string>
+    <string name="search_hint">Keresés rádió neve szerint…</string>
+    <string name="settings_title">Beállítások</string>
+    <string name="pref_audio_quality">Lejátszás minősége</string>
+    <string name="pref_audio_quality_auto">Automatikus (internet sebességéhez igazodó)</string>
+    <string name="pref_audio_quality_high">Magas minőség (192+ kbps)</string>
+    <string name="pref_audio_quality_standard">Normál minőség (128 kbps)</string>
+    <string name="pref_audio_quality_saver">Adatforgalom-kímélő (64 kbps)</string>
+    <string name="pref_auto_play">Automatikus lejátszás indításkor</string>
+    <string name="pref_auto_play_desc">Az utolsó rádió elindítása az app megnyitásakor</string>
+    <string name="pref_default_screen">Kezdőképernyő</string>
+    <string name="pref_default_screen_favs">Kedvencek</string>
+    <string name="pref_default_screen_all">Összes rádióadó</string>
+    <string name="pref_theme">Megjelenés</string>
+    <string name="pref_theme_system">Rendszer alapértelmezett</string>
+    <string name="pref_theme_dark">Sötét mód</string>
+    <string name="pref_theme_light">Világos mód</string>
+
+    <!-- Buffer Time Settings -->
+    <string name="pref_buffer_time">Pufferelési idő</string>
+    <string name="pref_buffer_short">Gyors indítás (3 mp puffer)</string>
+    <string name="pref_buffer_normal">Alapértelmezett (5 mp puffer)</string>
+    <string name="pref_buffer_large">Stabil / Utazáshoz (15 mp puffer)</string>
+
+    <string name="manage_favorites">Kedvencek kezelése és sorrendje</string>
+    <string name="manage_favorites_subtitle">Változtasd meg a sorrendet a nyilakkal vagy törölj adót</string>
+    <string name="add_custom_station">Rádiostream hozzáadása manuálisan</string>
+    <string name="dialog_add_station_title">Új rádióállomás felvétele</string>
+    <string name="station_name">Állomás neve</string>
+    <string name="stream_url">Stream URL</string>
+    <string name="station_genre">Műfaj (pl. Pop, Rock, Retro, Jazz)</string>
+    <string name="station_country">Ország (pl. Magyarország, Szlovákia)</string>
+    <string name="station_language">Nyelv (pl. Magyar, Szlovák)</string>
+    <string name="station_icon_url">Logó URL (elhagyható)</string>
+    <string name="action_save">Mentés</string>
+    <string name="action_cancel">Mégse</string>
+    <string name="action_delete">Törlés</string>
+    <string name="action_play">Lejátszás</string>
+    <string name="action_pause">Szünet</string>
+    <string name="action_stop">Leállítás</string>
+    <string name="now_playing">Most szól</string>
+    <string name="buffering">Pufferelés…</string>
+    <string name="connecting">Csatlakozás…</string>
+    <string name="live">ÉLŐ</string>
+    <string name="metadata_waiting">Élő adás műsor</string>
+    <string name="unknown_title">zonq</string>
+    <string name="unknown_artist">Élő adás</string>
+    <string name="no_favorites">Még nincsenek elmentett kedvencek. Kattints a csillag ikonra bármelyik rádiónál!</string>
+    <string name="empty_search">Nincs találat a keresési feltételekre.</string>
+    <string name="notification_channel_name">zonq lejátszás</string>
+    <string name="notification_channel_desc">Értesítés az online rádió streameléséhez és vezérléséhez</string>
+    <string name="done">Kész</string>
+    <string name="move_up">Mozgatás feljebb</string>
+    <string name="move_down">Mozgatás lejjebb</string>
+    <string name="search_results_header">Találatok a(z) \"%1$s\" kifejezésre (%2$d)</string>
+    <string name="btn_load_more_stations">További rádiók betöltése…</string>
+    <string name="filter_all">Összes</string>
+    <string name="filter_hungarian">Magyar adók</string>
+    <string name="filter_top_voted">Legjobbra értékelt</string>
+    <string name="filter_trending">Népszerűek</string>
+    <string name="action_shuffle">Véletlenszerű sorrend</string>
+    <string name="custom_badge">Egyéni</string>
+    <string name="now_playing_title">MOST SZÓL</string>
+    <string name="live_stream_default">Élő adás</string>
+    <string name="prev_station">Előző rádióadó</string>
+    <string name="next_station">Következő rádióadó</string>
+    <string name="vol_down">Hangerő le</string>
+    <string name="vol_up">Hangerő fel</string>
+
+    <!-- Country translations -->
+    <string name="country_hungary">Magyarország</string>
+    <string name="country_slovakia">Szlovákia</string>
+    <string name="country_czechia">Csehország</string>
+    <string name="country_usa">Egyesült Államok</string>
+    <string name="country_uk">Egyesült Királyság</string>
+    <string name="country_germany">Németország</string>
+    <string name="country_france">Franciaország</string>
+    <string name="country_italy">Olaszország</string>
+    <string name="country_spain">Spanyolország</string>
+    <string name="country_switzerland">Svájc</string>
+    <string name="country_austria">Ausztria</string>
+
+    <!-- Genre translations -->
+    <string name="genre_pop">Pop</string>
+    <string name="genre_rock">Rock</string>
+    <string name="genre_retro">Retro</string>
+    <string name="genre_dance_electro">Dance / Electro</string>
+    <string name="genre_news">Hírek</string>
+    <string name="genre_jazz">Jazz</string>
+    <string name="genre_classical">Klasszikus</string>
+    <string name="genre_chillout">Chillout</string>
+    <string name="genre_country">Country</string>
+    <string name="genre_hiphop">Hip-Hop</string>
+
+    <!-- Language translations -->
+    <string name="lang_hungarian">Magyar</string>
+    <string name="lang_slovak">Szlovák</string>
+    <string name="lang_czech">Cseh</string>
+    <string name="lang_english">Angol</string>
+    <string name="lang_german">Német</string>
+    <string name="lang_french">Francia</string>
+    <string name="lang_italian">Olasz</string>
+    <string name="lang_spanish">Spanyol</string>
+
+    <!-- Language selector -->
+    <string name="pref_language">Alkalmazás nyelve</string>
+    <string name="lang_system_default">Rendszer alapértelmezett</string>
+
+    <!-- Equalizer settings -->
+    <string name="pref_equalizer">Hangszínsabályzó (Equalizer)</string>
+    <string name="pref_equalizer_desc">Hangzás testreszabása és előre beállított profilok</string>
+    <string name="pref_equalizer_enabled">Hangszínsabályzó bekapcsolva</string>
+    <string name="pref_equalizer_preset">Hangzásmód profil</string>
+    <string name="pref_equalizer_custom_bands">Egyéni frekvenciasávok</string>
+    <string name="pref_equalizer_not_supported">A hangszínsabályzó elindított zenelejátszás közben érhető el</string>
+
+    <!-- Equalizer Presets (10+ presets) -->
+    <string name="eq_preset_flat">Alapértelmezett (Flat)</string>
+    <string name="eq_preset_bass_boost">Basszus kiemelés (Bass Boost)</string>
+    <string name="eq_preset_treble_boost">Magashang kiemelés (Treble)</string>
+    <string name="eq_preset_rock">Rock</string>
+    <string name="eq_preset_pop">Pop</string>
+    <string name="eq_preset_jazz">Jazz</string>
+    <string name="eq_preset_classical">Klasszikus (Classical)</string>
+    <string name="eq_preset_electronic">Elektronikus / Dance</string>
+    <string name="eq_preset_vocal">Ének kiemelés (Vocal)</string>
+    <string name="eq_preset_speech_news">Beszéd / Hírek</string>
+    <string name="eq_preset_acoustic">Akusztikus (Acoustic)</string>
+    <string name="eq_preset_custom">Egyéni (Custom)</string>
+
+    <!-- Audio Normalization -->
+    <string name="pref_audio_normalization">Hangerő kiegyenlítés (Normalizáló)</string>
+    <string name="pref_audio_normalization_desc">Automatikusan kiegyenlíti a különböző rádióadók közötti hangerőt</string>
+    <string name="pref_normalization_profile">Kiegyenlítési profil</string>
+    <string name="norm_profile_balanced">Kiegyensúlyozott (Ajánlott)</string>
+    <string name="norm_profile_dynamic">Dinamikus / Kíméletes</string>
+    <string name="norm_profile_loud">Hangos / Autós mód</string>
+    <string name="status_live_broadcast">ÉLŐ ADÁS</string>
+    <string name="status_connecting">CSATLAKOZÁS…</string>
+    <string name="status_paused">SZÜNETELTETVE</string>
+    <string name="status_error">HIBA</string>
+    <string name="status_idle">KÉSZENLÉTBEN</string>
+    <string name="stream_error_retry">Adáshiba • Koppints a lejátszáshoz</string>
+    <string name="live_online_radio">Élő online rádió</string>
+    <string name="close">Bezárás</string>
+    <string name="music">Zene</string>
+    <string name="favorite">Kedvenc</string>
+    <string name="action_search">Keresés</string>
+    <string name="action_clear_search">Keresés törlése</string>
+    <string name="searching_stations">Rádióadók keresése az éterben…</string>
+    <string name="url_error_valid_stream">Érvényes http vagy https stream link szükséges</string>
+
+    <!-- Android Auto Categories -->
+    <string name="auto_cat_favorites">Kedvencek</string>
+    <string name="auto_cat_hungarian">Magyar rádióadók</string>
+    <string name="auto_cat_slovak">Szlovák rádióadók</string>
+    <string name="auto_cat_czech">Cseh rádióadók</string>
+    <string name="auto_cat_international">Nemzetközi rádióadók</string>
+    <string name="auto_cat_all">Összes rádióadó</string>
+
+    <!-- TV Full Screen Player -->
+    <string name="tv_back_to_stations">Vissza a rádiókhoz</string>
+    <string name="tv_player_title">zonq Rádiólejátszó</string>
+    <string name="tv_volume_label">Hangerő: %1$d%%</string>
+    <string name="tv_normalizer_active">Normalizáló aktív</string>
+    <string name="tv_live_stream_label">ÉLŐ ADÁS</string>
+    <string name="tv_expand_fullscreen">Teljes képernyő</string>
+    <string name="pref_tv_keep_screen_on">Képernyőkímélő letiltása TV-n</string>
+    <string name="pref_tv_keep_screen_on_desc">Megakadályozza, hogy az Android és Google TV képernyőkímélője (ambient mód) elinduljon az app futása közben</string>
+
+    <!-- zonq.eu Account & Sync -->
+    <string name="zonq_sync_title">zonq.eu Fiók &amp; Szinkronizáció</string>
+    <string name="zonq_sync_desc">Szinkronizáld kedvenc rádióidat a zonq.eu weboldal és az app között</string>
+    <string name="zonq_logged_in_as">Bejelentkezve: %1$s</string>
+    <string name="zonq_login_button">Bejelentkezés / Regisztráció</string>
+    <string name="zonq_sync_now">Szinkronizálás most</string>
+    <string name="zonq_syncing">Szinkronizálás folyamatban…</string>
+    <string name="zonq_sync_success">A kedvencek sikeresen szinkronizálva (%1$d rádió)!</string>
+    <string name="zonq_sync_failed">A szinkronizálás nem sikerült. Ellenőrizd a kapcsolatot.</string>
+    <string name="zonq_logout">Kijelentkezés</string>
+    <string name="zonq_logout_confirm">Biztosan kijelentkezel a zonq.eu fiókodból?</string>
+    <string name="zonq_tab_login">Bejelentkezés</string>
+    <string name="zonq_tab_register">Regisztráció</string>
+    <string name="zonq_email_hint">E-mail cím</string>
+    <string name="zonq_password_hint">Jelszó (legalább 8 karakter)</string>
+    <string name="zonq_dialog_hint">Jelentkezz be a zonq.eu oldalon használt fiókoddal, vagy regisztrálj újat. A kedvenc rádióid automatikusan szinkronizálódnak az app és a weboldal között!</string>
+    <string name="zonq_err_invalid_creds">Hibás e-mail cím vagy jelszó.</string>
+    <string name="zonq_err_invalid_email">Kérjük, adj meg érvényes e-mail címet.</string>
+    <string name="zonq_err_email_taken">Ezzel az e-mail címmel már regisztráltak.</string>
+    <string name="zonq_err_weak_password">A jelszónak legalább 8 karakterből kell állnia.</string>
+    <string name="zonq_err_network">Hálózati hiba történt. Kérjük próbáld újra.</string>
+    <string name="zonq_err_auth_expired">A bejelentkezési munkamenet lejárt. Kérjük, jelentkezz be újra.</string>
+    <string name="zonq_reg_success">Sikeres regisztráció és bejelentkezés!</string>
+    <string name="zonq_favs_synced_badge">Kedvencek szinkronizálva</string>
+    <string name="zonq_not_logged_in_favs_hint">Jelentkezz be a zonq.eu fiókoddal, hogy a weboldalon elmentett kedvenceid itt is megjelenjenek.</string>
+    <string name="zonq_forgot_password">Elfelejtett jelszó?</string>
+    <string name="zonq_forgot_sent">Jelszó-visszaállító e-mail elküldve!</string>
+    <string name="zonq_delete_account">Fiók törlése</string>
+    <string name="zonq_delete_account_confirm">Biztosan véglegesen törölni szeretnéd a zonq.eu fiókodat? A kedvencek és a profil törlődnek a szerverről. A művelet nem visszavonható!</string>
+    <string name="zonq_delete_account_pass_hint">Add meg a jelszavad a törléshez</string>
+    <string name="zonq_account_deleted">A fiókod sikeresen törölve.</string>
+    <string name="zonq_status_synced">Szinkronizálva: %1$s</string>
+    <string name="zonq_status_syncing">Szinkronizálás folyamatban…</string>
+    <string name="zonq_status_offline">Offline – a módosítások később szinkronizálódnak</string>
+    <string name="zonq_err_limit">Elérted a kedvencek limitjét (500).</string>
+    <string name="zonq_err_too_many">Túl sok kísérlet. Kérlek várj egy kicsit.</string>
+    <string name="zonq_err_registration_closed">A regisztráció jelenleg nem engedélyezett.</string>
+    <string name="zonq_err_admin_account">Adminisztrátori fiók nem törölhető az alkalmazásból.</string>
+
+    <!-- App Updater (zonq.eu/api.php?a=apk) -->
+    <string name="update_section_title">Alkalmazás frissítése</string>
+    <string name="update_section_desc">Manuális és automatikus frissítés a zonq.eu szerverről</string>
+    <string name="update_check_button">Frissítések keresése</string>
+    <string name="update_checking">Frissítések keresése…</string>
+    <string name="update_available_title">Új verzió érhető el!</string>
+    <string name="update_available_desc">Újabb verzió található a zonq.eu szerveren. Szeretnéd letölteni a frissítést?</string>
+    <string name="update_up_to_date">A legfrissebb verziót használod (%1$s)</string>
+    <string name="update_remote_time">Szerverre feltöltve: %1$s</string>
+    <string name="update_local_time">Jelenleg telepítve: %1$s</string>
+    <string name="update_size">Méret: %1$s</string>
+    <string name="update_download_button">Letöltés</string>
+    <string name="update_later_button">Mégse</string>
+    <string name="update_download_started">A frissítés letöltése elindult…</string>
+    <string name="update_check_failed">Nem sikerült ellenőrizni a frissítéseket.</string>
+
+    <!-- Settings Sections -->
+    <string name="settings_section_account">Fiók &amp; Szinkronizáció</string>
+    <string name="settings_section_audio">Hangzás &amp; Lejátszás</string>
+    <string name="settings_section_display">Megjelenés &amp; Kezelőfelület</string>
+    <string name="settings_section_tools">Állomások &amp; Karbantartás</string>
+</resources>
